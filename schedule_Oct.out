@@ -1,0 +1,147 @@
+Current date and time: 2026-10-01 18:00:02 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-02 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-03 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-04 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-05 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-06 00:00:01 prematch
+Executing SQL file: caimweb/prematch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-06 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-07 16:30:01 promatch
+Creating MySQL dump...
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Starting git backup...
+[main 4897f03] Automated backup on 2026-10-07 16:30:06
+ 5 files changed, 14457 insertions(+), 327 deletions(-)
+ create mode 100644 2026-10-06.html
+ rename caimdb.20260930 => caimdb.20261007 (82%)
+ create mode 100644 schedule_Sep.out
+To https://github.com/hxarchos202-hk/kbc_archive.git
+   620ba3c..4897f03  main -> main
+Current date and time: 2026-10-07 18:00:02 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-08 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-09 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-10 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-11 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-12 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-13 00:00:01 prematch
+Executing SQL file: caimweb/prematch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-13 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-14 16:30:01 promatch
+Creating MySQL dump...
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Starting git backup...
+[main a089b69] Automated backup on 2026-10-14 16:30:04
+ 4 files changed, 12974 insertions(+), 3216 deletions(-)
+ create mode 100644 2026-10-13.html
+ delete mode 100644 2026b_P.html
+ rename caimdb.20261007 => caimdb.20261014 (78%)
+To https://github.com/hxarchos202-hk/kbc_archive.git
+   4897f03..a089b69  main -> main
+Current date and time: 2026-10-14 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-15 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-16 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-17 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-18 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-19 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-20 00:00:01 prematch
+Executing SQL file: caimweb/prematch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-20 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-21 16:30:01 promatch
+Creating MySQL dump...
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Starting git backup...
+[main 83da6d0] Automated backup on 2026-10-21 16:30:05
+ 3 files changed, 12944 insertions(+), 101 deletions(-)
+ create mode 100644 2026-10-20.html
+ rename caimdb.20261014 => caimdb.20261021 (82%)
+To https://github.com/hxarchos202-hk/kbc_archive.git
+   a089b69..83da6d0  main -> main
+Current date and time: 2026-10-21 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-22 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-23 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-24 18:00:02 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-25 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-26 18:00:02 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-27 00:00:01 prematch
+Executing SQL file: caimweb/prematch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-27 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-28 16:30:01 promatch
+Creating MySQL dump...
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+Starting git backup...
+[main 3b8cc0b] Automated backup on 2026-10-28 16:30:05
+ 3 files changed, 14827 insertions(+), 132 deletions(-)
+ create mode 100644 2026-10-27.html
+ rename caimdb.20261021 => caimdb.20261028 (77%)
+To https://github.com/hxarchos202-hk/kbc_archive.git
+   83da6d0..3b8cc0b  main -> main
+Current date and time: 2026-10-28 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-29 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-30 18:00:02 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Current date and time: 2026-10-31 18:00:01 cancelmatch
+Executing SQL file: caimweb/cancelmatch.sql
+mysql: [Warning] Using a password on the command line interface can be insecure.
